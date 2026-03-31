@@ -50,19 +50,20 @@ REPOSITORY STRUCTURE:
 
 digital-literacy-project/
 
-1.README.md
 
-2.report/
+1.task-1-presentation/
 
-3.task-1-presentation/
+2.task-2-portfolio/
 
-4.task-2-portfolio/
+3.task-3-platforms/
 
-5.task-3-platforms/
+4.task-4-email-etiquette/
 
-6.task-4-email-etiquette/
+5.task-5-cybercrime/
 
-7.task-5-cybercrime/
+6.README.md
+
+7.Project report/
 
 
 KEY LEARNINGS:
